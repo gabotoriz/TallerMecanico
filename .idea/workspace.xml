@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386f4519-f527-4405-be4e-01bcad2aeae9" name="Changes" comment="">
+    <list default="true" id="386f4519-f527-4405-be4e-01bcad2aeae9" name="Changes" comment="Creamos el proyecto para el taller mecanico de Misael">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utc/mx/tallermecanico/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utc/mx/tallermecanico/InitAplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utc/mx/tallermecanico/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utc/mx/tallermecanico/SelectionController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/utc/mx/tallermecanico/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/utc/mx/tallermecanico/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +40,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -50,11 +58,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708724555313</updated>
-      <workItem from="1708724557578" duration="6000" />
+      <workItem from="1708724557578" duration="712000" />
     </task>
+    <task id="LOCAL-00001" summary="Creamos el proyecto para el taller mecanico de Misael">
+      <option name="closed" value="true" />
+      <created>1708724609577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708724609577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creamos el proyecto para el taller mecanico de Misael" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creamos el proyecto para el taller mecanico de Misael" />
   </component>
 </project>

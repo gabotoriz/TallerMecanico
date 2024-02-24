@@ -3,7 +3,7 @@ package utc.mx.tallermecanico;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class SelectionController {
     @FXML
     private Label welcomeText;
 
