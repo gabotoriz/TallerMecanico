@@ -2,11 +2,9 @@ package utc.mx.tallermecanico;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 import org.kordamp.bootstrapfx.scene.layout.Panel;
 
-import java.io.IOException;
 
 import static utc.mx.tallermecanico.ViewSwitcher.setScene;
 import static utc.mx.tallermecanico.ViewSwitcher.switchTo;
