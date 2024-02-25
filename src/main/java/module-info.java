@@ -10,6 +10,9 @@ module utc.mx.tallermecanico {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires mysql.connector.j;
+    requires java.sql;
+
 
     opens utc.mx.tallermecanico to javafx.fxml;
     exports utc.mx.tallermecanico;
