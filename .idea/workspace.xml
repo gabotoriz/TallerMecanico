@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386f4519-f527-4405-be4e-01bcad2aeae9" name="Changes" comment="Se borraron instancias mal invocadas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/utc/mx/tallermecanico/DataBase/DatabaseSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utc/mx/tallermecanico/DataBase/DatabaseVariables.java" afterDir="false" />
+    <list default="true" id="386f4519-f527-4405-be4e-01bcad2aeae9" name="Changes" comment="Se agregaron las variables paa trabajar con la base de datos y el metodo SINGLETON">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +74,7 @@
       <updated>1708724555313</updated>
       <workItem from="1708724557578" duration="712000" />
       <workItem from="1708821835114" duration="2852000" />
-      <workItem from="1708825043713" duration="1431000" />
+      <workItem from="1708825043713" duration="2371000" />
     </task>
     <task id="LOCAL-00001" summary="Creamos el proyecto para el taller mecanico de Misael">
       <option name="closed" value="true" />
@@ -120,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708822874742</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se agregaron las dependencias de MySQL">
+      <option name="closed" value="true" />
+      <created>1708826861142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708826861142</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se agregaron las variables paa trabajar con la base de datos y el metodo SINGLETON">
+      <option name="closed" value="true" />
+      <created>1708827083367</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708827083367</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +155,9 @@
     <MESSAGE value="Se agrego el cambio de vista con base en la hoja de rutas (View.java)" />
     <MESSAGE value="Se agrego la hoja de rutas y el modulo para cambiar la visa" />
     <MESSAGE value="Se borraron instancias mal invocadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se borraron instancias mal invocadas" />
+    <MESSAGE value="Se agregaron las dependencias de MySQL" />
+    <MESSAGE value="Se agregaron las variables paa trabajar con la base de datos y el metodo SINGLETON" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregaron las variables paa trabajar con la base de datos y el metodo SINGLETON" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
