@@ -13,7 +13,6 @@ module utc.mx.tallermecanico {
     requires mysql.connector.j;
     requires java.sql;
 
-
     opens utc.mx.tallermecanico to javafx.fxml;
     exports utc.mx.tallermecanico;
 }
